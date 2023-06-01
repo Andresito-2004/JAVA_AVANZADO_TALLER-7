@@ -1,7 +1,2 @@
-En este taller realizamos la creacion de cinco funciones las cuales algunas de ellas requieren parametros y otros no, las funciones creadas fueron: 
-- listAllObj()= Mostrar los datos
-- byIdObj(Integer id)= Mostrar un dato segun el ID
-- saveObj(User user)= Guardar un dato
-- deleteObj(Integer id)= Borrar un dato
-- createObj(ResultSet rs)= Obtener los datos
-Luego de haberlas creado, realizamos un test el cual nos permitia realizar una prueba para ver que todo este funcionando correctamente 
+En este taller creamos en la base de datos dos tablas una llamada "Products" en la cual vamos a almacenar la información de los productos, la tabla esta relacionada con la otra tabla llamada "category" con la cual vamos a saber que categoria tiene cada producto por medio de la foreing key, adicional de esto realizamos los "Beans" para cada tabla los "beans" estan conformados por atributos y metodos
+- Luego de haber creado lo anterior vamos a crear los "Repository" para cada uno de los "beans" creados anteriormente utilizando la interfaz "Repository" heredando los metodos vamos a realizar los metodos segun lo que necesitamos 
