@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 254, 254);
+}
+#pn{
+    color : black;
+}
+
+#top{
+    /* padding: 50px; */
+    color: #07e1fe;
+    font-size: 50px;
+}
+/* form{
+width: 400px;
+height: 400px;
+} */
+.container{
+    width: 500px;
+    height: 650px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 50px;
+
+
+}
+#camp{
+    padding: 4px;
+
+}

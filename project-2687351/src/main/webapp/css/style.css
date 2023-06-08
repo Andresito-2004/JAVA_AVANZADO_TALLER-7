@@ -1,0 +1,39 @@
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: rgb(255, 254, 254);
+}
+#pn{
+    color : black;
+}
+
+#top{
+    /* padding: 50px; */
+    color: #07e1fe;
+    font-size: 50px;
+}
+/* form{
+width: 400px;
+height: 400px;
+} */
+.container{
+    width: 500px;
+    height: 580px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 50px;
+
+
+}
+#camp{
+    padding: 4px;
+
+}
+button{
+    background-color: #07e1fe;
+    border: 1px solid #07e1fe;
+    padding: 8px 15px;
+    font-size: 15px;
+    border-radius: 10px;
+}
